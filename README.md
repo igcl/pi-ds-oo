@@ -17,7 +17,7 @@ Nesta fase, a equipe realizou o processo de modelagem do sistema de gestão univ
 O diagrama abaixo representa as principais funcionalidades de cadastro do sistema, mostrando as interações do Ator "Administrador" com o sistema.
 
 
-![Diagrama de Caso de Uso](assets/diagrama-caso-uso.png) 
+![Diagrama de Caso de Uso](assets/Diagrama-de-caso-de-uso.png) 
 
 ### 2. Descrição dos Casos de Uso
 Detalhes e fluxos de cada cenário de cadastro, incluindo cenários principal e alternativos, pré e pós-condições.
