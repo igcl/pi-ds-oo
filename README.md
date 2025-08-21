@@ -7,9 +7,6 @@ Este repositório contém as entregas do Projeto Integrador da disciplina de Des
 ### Equipe
 - Ighor Gabriel Constantino de Lima
 - Luiz Fernando de Castro
-- Raquel Bernardino de Oliveira
-- Thiago Pereira do Nascimento
-
 ---
 
 ## 🚀 Primeira Entrega: Modelagem do Sistema
