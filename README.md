@@ -41,7 +41,7 @@ Detalhes e fluxos de cada cenário de cadastro, incluindo cenários principal e 
 O diagrama de classe abaixo reflete a proposta do projeto, definindo a estrutura e as relações entre as classes (Pessoa, Pessoa Física, Pessoa Jurídica, Professor, Aluno, Fornecedor).
 
 **[Local para colocar a imagem do seu Diagrama de Classe]**
-![Diagrama de Classe](assets/diagrama-de-classe.png)
+![Diagrama de Classe](assets/Diagrama-de-classe.png)
 
 ---
 
